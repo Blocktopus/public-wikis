@@ -1,3 +1,4 @@
+![](https://www.dropbox.com/s/2mm5509701819iv/Blocktopus_logo-hot_purple.png?raw=1)
 
 [Smart contract integration](https://github.com/Blocktopus/public-wikis/wiki/How-to-integrate-your-DApp-with-Blocktopus#smart-contract-integration)
 
